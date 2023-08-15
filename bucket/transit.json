@@ -1,0 +1,21 @@
+{
+    "version": "1.2.2",
+    "architecture": {
+        "arm64": {
+            "url": "https://github.com/ismailshak/transit/releases/download/v1.2.2/transit_Windows_arm64.zip",
+            "bin": [
+                "transit.exe"
+            ],
+            "hash": "b8ee76f4714592af1493b5ae1c910f78723e6a89a59bdeb1856ec3519abca805"
+        }
+    },
+    "homepage": "https://transitcli.com/",
+    "license": "MIT",
+    "description": "Cross platform tool that brings local transit information to the command line",
+    "shortcuts": [
+        [
+            "transit.exe",
+            "transit"
+        ]
+    ]
+}
